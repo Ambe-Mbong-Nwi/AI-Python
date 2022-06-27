@@ -1,1 +1,2 @@
-# AI-Python
+# PYTHON CODE
+# This repository contains codes written in python.
